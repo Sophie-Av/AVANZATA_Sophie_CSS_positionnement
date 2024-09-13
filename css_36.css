@@ -1,0 +1,18 @@
+.exo1 {
+    width: 600px;
+    height: 600px;
+    background-color: #00f1ff;
+    padding-top: 3%;
+}
+.exo2 {
+    margin: 0 0 0 5%;
+    width: 30%;
+    height: 30%;
+    background-color: #0b6416;
+}
+.exo3 {
+    margin: -25% 0 0 10%;
+    width: 30%;
+    height: 30%;
+    background-color: #0b2641;
+}
